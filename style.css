@@ -1,0 +1,38 @@
+* {
+    background-image: url(imagens/fundo.webp);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.menu {
+    margin-top: 100px;
+    margin-left: 2px;
+    width: 40%;
+    margin-left: 20px;
+}
+
+.menu a {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 1px;
+    width: 100px;
+    border-radius: 5px;    
+    text-decoration: none;
+}
+
+.sobre {
+    font-weight: bold;
+    width: 30%;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+}
+
+.rodape {
+    width: 30%;
+    text-align: center;
+    float: left;
+    margin-top: 560px;
+}
+    
